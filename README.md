@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on mastering javascript<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Ui/Ux Design<br>⚡ Fun fact;I enjoy Ethiopian Music
+🔭 I’m currently working on mastering React<br>👯 I’m looking to collaborate on projects<br>🌱 I’m currently learning Javascript<br>💬 Ask me about Ui/Ux Design<br>⚡ Fun fact;I enjoy Ethiopian Music
 
+https://www.holopin.io/api/user/board?user=jimmunene)](https://holopin.io/@jimmunene
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jimbrian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JimMunene) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Munenejim) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jim.brian) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jimbrian19) 
